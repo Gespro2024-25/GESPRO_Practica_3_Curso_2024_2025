@@ -1,23 +1,81 @@
-![header](https://cloud.githubusercontent.com/assets/6546265/22174630/785cdf04-dfe3-11e6-8cf4-024e8dc1c051.png)
+# PRACTICA 2 GESPRO
 
-[![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
-[![Build Status](https://travis-ci.org/davidmigloz/go-bees.svg?branch=master)](https://travis-ci.org/davidmigloz/go-bees)
-[![codecov](https://codecov.io/gh/davidmigloz/go-bees/branch/master/graph/badge.svg)](https://codecov.io/gh/davidmigloz/go-bees)
-[![Code Climate](https://codeclimate.com/github/davidmigloz/go-bees/badges/gpa.svg)](https://codeclimate.com/github/davidmigloz/go-bees)
-[![SonarQube](https://sonarqube.com/api/badges/gate?key=go-bees)](https://sonarqube.com/component_measures/?id=go-bees)
-[![Dependency Status](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33)
-[![Documentation Status](https://readthedocs.org/projects/go-bees/badge/?version=develop)](http://go-bees.readthedocs.io/es/develop/?badge=develop)
+AUTORES--> Hugo Solis y Samuel De Castro
 
-## License
+# 1- GUIA SECUENCIA DE ACCIONES
 
-Copyright (c) 2016 - 2017 David Miguel Lozano
+Gk (gitkraken)
+Gh (github)
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-any later version.
+*Adjuntamos las capturas de como hemos realizado paso a paso la utima tarea*
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+Paso previo:Creamos las tareas en Gh (issues) para cada ytarea que vayamos a realizar en Gk
+
+![Captura de pantalla 2024-12-08 132918](https://github.com/user-attachments/assets/3f04ce42-2968-460a-8ec2-2f8d9ab75197)
+
+
+1- En Gk entramos en Go-bees y seleccionamos una tarea para realizar un commit
+  Hacemos clik-derecho-> Reset master to this commit-> hard
+  
+
+![Imagen de WhatsApp 2024-12-07 a las 19 49 07_399f599b](https://github.com/user-attachments/assets/a49fda2c-ad4d-47d4-b835-a4b5799aae7b)
+
+
+2- Dentro de la carpeta de nuestro proyecto en Gk, comprobamos que en el apartado de LOCAL tenemos el master al dia (tick verde) y nos posicionamos en el.
+
+
+![Imagen de WhatsApp 2024-12-07 a las 19 49 23_6fe2827d](https://github.com/user-attachments/assets/41108f0f-2b14-4ce1-b1bd-b02871ea161b)
+
+
+3- Nos dirigimos a Gh para crear una rama en la tarea que toque ( tareas creadas en el paso previo a empezar las acciones). Le ponemos el mismo nombre que tiene en Go-bees.
+
+
+![Imagen de WhatsApp 2024-12-07 a las 19 50 08_c276e408](https://github.com/user-attachments/assets/8d14b2bd-7c2d-4d42-b5ae-c3e119720245)
+
+
+4- Volvemos a Gk y vamos a ver en REMOTO el nombre de la rama que hemos creado. 
+  Le damos soble click y nos aparecerá en local (con un tick verde)
+  Nos posicionamos en la tarea
+
+
+![Imagen de WhatsApp 2024-12-07 a las 19 51 51_76bdd4b1](https://github.com/user-attachments/assets/93be37f0-5968-44e6-972d-2dfd9b90e00f)
+
+
+5- Copiamos TODO (menos si tenemos un .git) lo de la carpeta Go-bees en nuestra practica (sustituyendolo).
+
+*Primero lo copiamos*
+
+![Imagen de WhatsApp 2024-12-07 a las 19 51 29_10aea33c](https://github.com/user-attachments/assets/58f9ccd8-8369-4474-951a-76c4494dbf59)
+
+*Después lo sustituimos en nuestra practica*
+
+![Imagen de WhatsApp 2024-12-07 a las 19 52 45_29a043f2](https://github.com/user-attachments/assets/1317b6f9-3478-41f2-9238-fb2d94925c63)
+
+
+6- Volvemos al Gk, nos tendrá que salir en nuestra practica un aviso de los cambios que hemos   
+   hecho (View All Changes) y pulsamos en el. 
+   Posteriormente pulsamos en (Stage All) y le ponemos el nombre al commit (el mismo que el de 
+   la tarea sin el #)
+
+   ![Imagen de WhatsApp 2024-12-07 a las 19 53 06_e4da5600](https://github.com/user-attachments/assets/67b7f27b-e804-4722-96c3-2416fa59482a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -60,6 +60,50 @@ Paso previo:Creamos las tareas en Gh (issues) para cada ytarea que vayamos a rea
    ![Imagen de WhatsApp 2024-12-07 a las 19 53 06_e4da5600](https://github.com/user-attachments/assets/67b7f27b-e804-4722-96c3-2416fa59482a)
 
 
+7- Ahora nos posicionamos en nuestra tarea en LOCAL y pulsamos:
+   -Fetch All (comprobar que estamos al dia)
+   -Pull + Push (para subir y bajar los cambios)
+
+
+   ![Imagen de WhatsApp 2024-12-07 a las 19 53 51_29e58252](https://github.com/user-attachments/assets/1ac6b9c3-f9fb-4672-b43d-3acbb656d951)
+
+
+
+8- Vamos al Gh a la parte de Pull Request: 
+
+![Captura de pantalla 2024-12-07 195715](https://github.com/user-attachments/assets/c7926d14-a3ef-41e6-ad76-9074f5b3d5b6)
+
+Nos debería de salir una notificación como la siguiente: 
+
+![Captura de pantalla 2024-12-07 195658](https://github.com/user-attachments/assets/00e2124f-7e79-41ec-9770-7c54f41567a2)
+
+-Le damos al boton y para crear una pull request:
+
+  -Primero ponemos nuestra organización:
+  
+![Imagen de WhatsApp 2024-12-07 a las 19 54 52_77be0694](https://github.com/user-attachments/assets/e267b37d-d227-4abf-83e7-3f16137c734a)
+
+
+  -Después le damos a crear el pull request:
+  
+![Imagen de WhatsApp 2024-12-07 a las 19 55 25_313e7be7](https://github.com/user-attachments/assets/88ce0c22-9219-4761-b1be-3e5cffe3daa4)
+
+
+  -Por último, le damos a (Merge Pull Request):
+
+![Imagen de WhatsApp 2024-12-07 a las 19 56 00_7d4e5035](https://github.com/user-attachments/assets/ec048ab1-37e5-400d-b53d-d71d272537f9)
+
+-Y lo confirmamos: 
+
+![Imagen de WhatsApp 2024-12-07 a las 19 56 11_16210420](https://github.com/user-attachments/assets/64d82ca1-b06d-4685-a06b-dfa0562e7258)
+
+9- Como ultimo paso , volveos al Gk. 
+  Pulsamos en master en REMOTO y lo subimos a LOCAL (se actualiza).
+  Posicionados en master hacemos de nuevo : Fetch All --> Pull-->Push
+
+  
+![Imagen de WhatsApp 2024-12-07 a las 19 57 44_3a2c508c](https://github.com/user-attachments/assets/f93ffd14-000a-45ea-8db6-d7599f51628f)
+
 
 
 

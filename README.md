@@ -107,13 +107,46 @@ Nos debería de salir una notificación como la siguiente:
 
 
 
+# 2- GRAFICO OBTENIDO EN GIT KRAKEN
+
+
+![Imagen de WhatsApp 2024-12-07 a las 19 58 50_392248db](https://github.com/user-attachments/assets/b1ebf459-afca-43b6-b579-dd41ecea188e)
+
+
+# 3- CAPTURAS DE PANTALLA GIT KRAKEN
+
+-Primer commit:
+
+![Captura de pantalla 2024-12-08 135802](https://github.com/user-attachments/assets/ddbc3b98-c447-4c6d-a62d-9ff2c1e22e4e)
 
 
 
+-Último commit: (Te muestro el penúltimo para demostrar que hicimos uno cada uno, ya que el último le tuvo que hacer mi compañero porque en mi ordenador no dejaba). 
+
+
+![Captura de pantalla 2024-12-08 135815](https://github.com/user-attachments/assets/aa458c5d-4344-4c10-abeb-7fc3979150fb)
 
 
 
+# 4- CAPTURAS DE PANTALLA GITHUB
 
+
+-Información del proyecto obtenida desde "Insights→Pulse : 
+
+
+![Captura de pantalla 2024-12-08 140320](https://github.com/user-attachments/assets/f33763e1-974f-4885-9eb1-84b0b952ef66)
+
+
+-La información del proyecto obtenida desde "Insights→ Code frequency" : 
+
+
+![Captura de pantalla 2024-12-08 140338](https://github.com/user-attachments/assets/40374b4d-a9f7-435a-9397-661836ade758)
+
+
+-Captura de las PRQs realizadas cerradas: 
+
+
+![Captura de pantalla 2024-12-08 140421](https://github.com/user-attachments/assets/539f26f3-e2b0-4bc4-a449-b0a222613010)
 
 
 
